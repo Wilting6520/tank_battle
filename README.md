@@ -7,7 +7,7 @@
 打开 GitHub Pages 地址即可游玩（若已开启）：
 
 ```
-https://<你的用户名>.github.io/<仓库名>/
+https://Wilting6520.github.io/tank_battle/
 ```
 
 ## 本地运行
